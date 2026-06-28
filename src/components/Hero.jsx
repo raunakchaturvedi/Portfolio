@@ -144,47 +144,7 @@ function Hero() {
             mt-10
             "
           >
-            <a
-              href="#projects"
-              className="
-              flex
-              items-center
-              gap-3
-              px-8
-              py-4
-              rounded-full
-              bg-cyan-500
-              text-black
-              font-semibold
-              hover:scale-105
-              transition-all
-              duration-300
-              "
-            >
-              <FaRocket />
-              View Projects
-            </a>
-
-            <a
-              href="#contact"
-              className="
-              flex
-              items-center
-              gap-3
-              px-8
-              py-4
-              rounded-full
-              border
-              border-cyan-500
-              text-white
-              hover:bg-cyan-500/10
-              transition-all
-              duration-300
-              "
-            >
-              <FaUser />
-              Contact Me
-            </a>
+            
 
             <a
               href="/resume.pdf"
