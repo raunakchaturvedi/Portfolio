@@ -147,7 +147,7 @@ function Hero() {
             
 
             <a
-              href="/Cognizant_resume.pdf"
+              href="/cognizant_resume.pdf"
               download
               className="
               flex
